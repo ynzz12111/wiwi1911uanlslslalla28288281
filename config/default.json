@@ -5,10 +5,10 @@
     },
 
     "mysql": {
-      "host": "127.0.0.1",
-      "username": "",
-      "database": "", 
-      "password": ""
+      "host": "194.56.225.14",
+      "username": "u75_2F3kS5C5c3",
+      "database": "s75_indorp", 
+      "password": "kNF.L0SKlMzXQ!.oxR@mJ7wM"
     },
 
     "discord": {
