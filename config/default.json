@@ -12,11 +12,11 @@
     },
 
     "discord": {
-        "token": "",
-        "command": ".gen",
-        "channelid": "",
-        "servername": "",
+        "token": "MTI5MjczOTc1Njg0OTEwNjk3NA.GsFlkK.jhPj20P1IEL4nTFy49xPhMlh3o1G-4kJI_Cwtw",
+        "command": "!backup",
+        "channelid": "1292475223383347312",
+        "servername": "IndoRP",
         "servericon": "",
-        "bot_activity": ""
+        "bot_activity": "Playing"
     }
 }
